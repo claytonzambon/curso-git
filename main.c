@@ -4,6 +4,7 @@
 int main()
 {
     printf("Hello world!\n");
-    printf("Ola Mundo!");
+    printf("Ola Mundo!\n");
+    printf("Astalavista baby\n");
     return 0;
 }
