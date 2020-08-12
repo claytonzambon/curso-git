@@ -10,5 +10,6 @@ int main()
     printf("teste 02\n");
     printf("teste 03\n");
     printf("teste 04\n");
+    printf("Mensagem de outro DEV\n");
     return 0;
 }
