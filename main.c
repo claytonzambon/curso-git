@@ -15,5 +15,6 @@ int main()
     printf("teste 06\n");
     printf("teste 07\n");
     printf("teste 08\n");
+    printf("teste 09\n");
     return 0;
 }
