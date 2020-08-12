@@ -6,5 +6,6 @@ int main()
     printf("Hello world!\n");
     printf("Ola Mundo!\n");
     printf("Astalavista baby\n");
+    printf("teste");
     return 0;
 }
