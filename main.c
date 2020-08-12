@@ -6,8 +6,9 @@ int main()
     printf("Hello world!\n");
     printf("Ola Mundo!\n");
     printf("Astalavista baby\n");
-    printf("teste");
-    printf("teste 02");
-    printf("teste 03");
+    printf("teste\n");
+    printf("teste 02\n");
+    printf("teste 03\n");
+    printf("teste 04\n");
     return 0;
 }
