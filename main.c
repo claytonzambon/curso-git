@@ -8,5 +8,6 @@ int main()
     printf("Astalavista baby\n");
     printf("teste");
     printf("teste 02");
+    printf("teste 03");
     return 0;
 }
